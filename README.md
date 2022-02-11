@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smruthie
-- 👀 I’m interested in bioinformatics, data science, and AI
+- 👀 I’m interested in computational biology and AI
 - 🌱 I’m currently learning: ML and sequence analysis
 - 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
 
