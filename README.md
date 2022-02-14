@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smruthie
 - 👀 I’m interested in computational biology and AI
 - 🌱 I’m currently learning: ML and sequence analysis
-- I'm currently working on a swarm optimization project and a supply chain predictive model.
+- I'm currently working on a swarm optimization project and a supply chain prediction model.
 - 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
 
 <!---
