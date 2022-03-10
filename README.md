@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smruthie
-- 👀 I’m interested in computational biology and bio-inspired algorithms.
+- 👀 I’m interested in computational biology, bioinformatics, and bio-inspired algorithms.
 - 🌱 I’m currently learning: ML and sequence analysis
 - 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
 
