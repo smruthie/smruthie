@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational biology, bioinformatics, and bio-inspired algorithms.
 - 🌱 I’m currently learning: ML and sequence analysis
 - 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
-- 🐅 I drew the *Smilodon populator* (extinct in Ice Age) in my profile picture!
+- 🐅 I drew the *Smilodon populator* (extinct in Ice Age) in my profile picture (or at least I tried)!
 
 <!---
 smruthie/smruthie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
