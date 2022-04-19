@@ -4,7 +4,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
 
 And oh, 
-- 🐅 I drew the *Smilodon populator* (extinct in Ice Age) in my profile picture! 😎😁
+- 🐅 I drew the *Smilodon populator* (Ice Age extinct) in my profile picture! 😎😁
 
 <!---
 smruthie/smruthie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
