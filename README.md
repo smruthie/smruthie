@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @smruthie
 - 👾 Building Carbon-Box, a startup gamifying bioscientific research. dApp soon to be deployed on the Polygon blockchain.
 - 🤹‍♀️ Have cross-disciplinary interests, will repo a bunch here.
+- 🫠 All my previous repos have been made private, since I worked on them a long time ago.
 
 And oh, 
 - 🐅 I drew the *Smilodon populator* in my profile picture! 😁
