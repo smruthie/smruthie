@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @smruthie
-- 👀 I’m interested in computational biology, bioinformatics, and bio-inspired algorithms.
-- 🌱 I’m currently learning: ML and sequence analysis
-- 📫 How to reach me: https://www.linkedin.com/in/smruthie-r-6131bb120/
+- 👾 Building Carbon-Box, a startup gamifying bioscientific research. dApp soon to be deployed on the Polygon blockchain.
+- 🤹‍♀️ Have cross-disciplinary interests, will repo a bunch here.
 
 And oh, 
-- 🐅 I drew the *Smilodon populator* (Ice Age extinct) in my profile picture! 😎😁
+- 🐅 I drew the *Smilodon populator* in my profile picture! 😁
 
 <!---
 smruthie/smruthie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
